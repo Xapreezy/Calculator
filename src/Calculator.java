@@ -10,5 +10,8 @@ public class Calculator {
     return n1*n2;
     
     }
+    public static double devide(double n1,double n2){
+        return n1/n2;
+    }
    
 }
